@@ -1,0 +1,1 @@
+The Customer AI Chatbot leverages advanced AI techniques to understand and respond to customer inquiries effectively. It is designed to provide accurate, context-aware responses, handle a variety of customer service tasks, and continuously learn from interactions to improve over time.
